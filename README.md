@@ -25,7 +25,7 @@ https://github.com/obighowisdom/Aramenkhose-Wisdom-Frontend-Developer: A Next.js
 *Let's Connect 🤝*
 
 - https://www.linkedin.com/in/wisdom-aramenkhose-969796237?
-- https://my-portfolio-rho-tawny.vercel.app/
+- https://wisdom-portfolio-one.vercel.app/
 
 *Get in Touch 📱*
 
